@@ -1,0 +1,44 @@
+* {
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+option {
+  border: 1px solid black;
+  padding: 2px;
+  margin: 2px;
+  font-size: large;
+  text-align: justify;
+}
+
+#country-code {
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: large;
+}
+
+input {
+  width: 500px;
+  font-size: large;
+}
+
+td {
+  border: 1px solid black;
+  width: 250px;
+  font-size: larger;
+}
+
+.show {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.hide {
+  display: none;
+}
+
+#error-msg {
+  font-size: large;
+}
