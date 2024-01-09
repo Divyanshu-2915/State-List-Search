@@ -14,3 +14,4 @@ The component uses data from the `App.json` file to populate the list of countri
   1. useState - for managing the state of States and Messages.
   2.  Arrow Functions - for using useState variables in a react function without any error.
   3.  Event Handler: for the selection of a country from the dropdown menu, updates state variables, and displays error messages if necessary.
+  4.  map method - for displaying the data. 
